@@ -1,0 +1,13 @@
+PODS:
+  - Nimbus/AttributedLabel (1.0.0):
+    - Nimbus/Core
+  - Nimbus/Core (1.0.0)
+
+DEPENDENCIES:
+  - Nimbus/AttributedLabel
+  - Nimbus/Core (~> 1.0.0)
+
+SPEC CHECKSUMS:
+  Nimbus: a1673dd214d31450b31f8755d66a8ae45edd1da8
+
+COCOAPODS: 0.34.4
